@@ -1,5 +1,7 @@
 ## Hola 👋 soy Jonatan Martí Rubio.
-
+```php
+echo Hola Mundo
+```
 <!--**jonatanmartirubio/jonatanmartirubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 Estudio Desarrollo de Aplicaciones Web en I.E.S. Mare Nostrum (Alicante, España)
