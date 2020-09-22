@@ -1,10 +1,7 @@
+`echo HolaGitHub();`
 ## Hola 👋 soy Jonatan Martí Rubio.
 
 <!--**jonatanmartirubio/jonatanmartirubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-```php
-echo HolaGitHub();
-```
 
 - 🔭 Estudio Desarrollo de Aplicaciones Web en I.E.S. Mare Nostrum (Alicante, España)
 - 🌱 Actualmente estoy aprendiendo HTML, CSS(Bootstrap, grid, sass, flexbox), PHP(Laravel, Symfony) y MySQL.
