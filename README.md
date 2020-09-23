@@ -9,6 +9,6 @@
 
 
 
-[Reddit]:(https://www.reddit.com/user/Unan95)
-[CodePen]:(https://codepen.io/jonatanmartirubio)
-[Linked In]:(https://linkedin.com/in/jonatan-marti-rubio)
+[Reddit]: (https://www.reddit.com/user/Unan95)
+[CodePen]: (https://codepen.io/jonatanmartirubio)
+[Linked In]: (https://linkedin.com/in/jonatan-marti-rubio)
