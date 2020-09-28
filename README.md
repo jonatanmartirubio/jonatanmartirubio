@@ -12,4 +12,4 @@
 [Reddit]: https://www.reddit.com/user/Unan95
 [CodePen]: https://codepen.io/jonatanmartirubio
 [Linked In]: https://linkedin.com/in/jonatan-marti-rubio
-[SOF]: https://stackoverflow.com/users/13738619/jonatan-mart%c3%ad-rubio?tab=profile
+[SOF]: https://stackoverflow.com/users/story/13738619
